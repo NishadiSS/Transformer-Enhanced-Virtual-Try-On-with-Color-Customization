@@ -59,13 +59,15 @@ Includes:
 - Semantic parsing maps  
 - DensePose UV maps  
 - OpenPose skeletal keypoints  
-- Agnostic-v3 person representations  
+- Agnostic-v3 person representations
+
+  <img width="600" height="431" alt="image" src="https://github.com/user-attachments/assets/6274b0eb-c77d-42a2-bf6a-a28fee08f719" />
+
 
 ---
 
 ## 🏗 System Architecture  
-<img width="722" height="48" alt="image" src="https://github.com/user-attachments/assets/c87a3334-c73d-4e06-a1b6-088af134eec9" />
-
+<img width="686" height="592" alt="image" src="https://github.com/user-attachments/assets/38cc9435-1915-4dbf-b73e-eafd15e5280e" />
 
 
 ---
@@ -88,7 +90,8 @@ Includes:
 ---
 
 ## 📁 Project Structure (Sample)
-<img width="242" height="356" alt="image" src="https://github.com/user-attachments/assets/001b6c49-0274-4a90-ac76-7f6053d1ebd8" />
+<img width="393" height="508" alt="image" src="https://github.com/user-attachments/assets/23f41a3c-3265-41a4-9b89-fab96b2cf853" />
+
 
 
 
@@ -112,7 +115,19 @@ npm run dev
 ```
 
 ---
+## 🖼️ Screenshots
 
+### 🔹 Home Page UI
+<img width="742" height="401" alt="image" src="https://github.com/user-attachments/assets/aedd67ea-05a6-4f78-b114-240123a7fe6c" />
+
+### 🔹 Try-On Result
+<img width="721" height="423" alt="image" src="https://github.com/user-attachments/assets/bfbf012f-ae14-469d-a4ef-daefa62060c3" />
+
+### 🔹 Size Recommendation
+<img width="702" height="416" alt="image" src="https://github.com/user-attachments/assets/a150aa3b-c2c3-4acf-8c0e-1182b564ddfa" />
+
+
+---
 ## 📊 Evaluation
 
 ### 🔢 Metrics
