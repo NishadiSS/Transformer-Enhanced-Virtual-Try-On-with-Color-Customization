@@ -124,6 +124,19 @@ npm run dev
 - **Natural garment–body alignment**
 - **Realistic lighting & shadow preservation**
 
+## 📘 Research Thesis
 
+Full thesis PDF: CS_2019_040 — Transformer-Enhanced Virtual Try-On with Color Customization
+(https://drive.google.com/file/d/1fEAEmu5lCBdhz2u9D9PbisEcGdja2khW/view?usp=sharing)
+
+## 👩‍💻 Author
+
+- P.M.N. Sasanthika
+- CS/2019/040
+- University of Kelaniya
+
+## 📜 License
+
+This project is released under the MIT License.
 
 
